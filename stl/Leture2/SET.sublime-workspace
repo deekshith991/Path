@@ -1,0 +1,267 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"su",
+				"Sum"
+			],
+			[
+				"E",
+				"EqualONot"
+			],
+			[
+				"be",
+				"beginend\t$1.begin(), $1.end()"
+			],
+			[
+				"ve",
+				"vector\tstd::vector"
+			],
+			[
+				"v",
+				"vector\tstd::vector"
+			],
+			[
+				"Ar",
+				"ArrOutput"
+			],
+			[
+				"mai",
+				"main\tmain()"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"m",
+				"main\tmain()"
+			],
+			[
+				"pr",
+				"ProperStruct"
+			],
+			[
+				"nu",
+				"num2_"
+			],
+			[
+				"f",
+				"file_base_name"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: l",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 312.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/deekshith/DSA/GOG/TripletsWithZeroSum.cpp",
+		"/home/deekshith/DSA/GOG/BinarySearch.cpp",
+		"/home/deekshith/pathway/stl/Leture2/SET.cpp",
+		"/home/deekshith/DSA/GOG/subARRofGivenSUM.cpp",
+		"/home/deekshith/pathway/stl/Leture1/striver_struct[SOME-WEIRD-ERROR].cpp",
+		"/home/deekshith/pathway/stl/Leture2/output.txt",
+		"/home/deekshith/pathway/stl/Leture2/input.txt",
+		"/home/deekshith/DSA/GOG/TwoArrEqualOrNot.cpp",
+		"/home/deekshith/DSA/GOG/ReverseArrInGroups.cpp",
+		"/home/deekshith/DSA/GOG/FirstElementToOccurKTimes.cpp",
+		"/home/deekshith/DSA/c_begin/Unique_In_Two_Duplicate.cpp",
+		"/home/deekshith/DSA/c_begin/Duplicate_element.cpp",
+		"/home/deekshith/pathway/stl/Leture1/input",
+		"/home/deekshith/pathway/stl/Leture1/output",
+		"/home/deekshith/pathway/stl/Leture1/matrixExercise.cpp",
+		"/home/deekshith/pathway/stl/Leture1/Array.cpp",
+		"/home/deekshith/pathway/stl/Leture1/vector.cpp",
+		"/home/deekshith/pathway/stl/Leture1/arr.cpp",
+		"/home/deekshith/.config/sublime-text/Packages/User/C++14-1.sublime-build",
+		"/home/deekshith/.config/sublime-text/Packages/User/C++17.sublime-build",
+		"/home/deekshith/pathway/stl/Leture1/ar1.cpp",
+		"/home/deekshith/.config/sublime-text/Packages/User/C++14.sublime-build",
+		"/home/deekshith/.config/sublime-text/Packages/User/C++14sublime-build",
+		"/home/deekshith/pathway/stl/Leture1/arr"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/C++20-1.sublime-build",
+	"project": "SET.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/pathway/stl/striverLeture1.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/pathway/stl/Leture1/striver_struct[SOME-WEIRD-ERROR].sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
