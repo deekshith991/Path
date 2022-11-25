@@ -20,7 +20,7 @@ void ArrOutput(int arr[] , int n){
 	cout << endl;
 }
 
-void myway(int arr[], int n, int key) {
+void myway_findElementX(int arr[], int n, int key) {
 
 	// time comp : 2logN
 
@@ -45,6 +45,12 @@ void striverWay(int arr[],int n , int key){
 }
 
 
+
+
+
+
+
+
 int main(){
 
 	int n=11; 
@@ -56,7 +62,7 @@ int main(){
 	int x =8;
 	cin >> x;
 
-	myway(arr,n,x);
+	myway_findElementX(arr,n,x);
 
 
 	

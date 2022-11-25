@@ -127,6 +127,19 @@ int main(){
 	auto j = upper_bound(vec.begin(),vec.end(),3);
 	int posi = j - vec.begin();
 
-	// Exercise 01 find an element x ?
+
+
+// Exercise 01 find an element x ?
+
+
+
+
+	// next_permutation( Start_It , End_It )
+
+	string s ="abcd";
+	bool result = next_permutation(s.begin() , s.end());
+
+	cout<< endl <<  s << result;
+
 
 }
