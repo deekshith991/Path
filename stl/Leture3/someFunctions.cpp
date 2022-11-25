@@ -7,6 +7,12 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
+
+// comparator line 160
+bool comp(int element1 , int element2);
+bool pair_compartor( pair<int,int> element1 , pair<int,int> element2);
+
 void ArrInput(int arr[], int n){
 
 	for(int i=0 ; i<n ; i++)
@@ -145,11 +151,46 @@ int main(){
 	cout << " All permutations of \"abcdefgh\" \n";
 
 	bool NotDone = true;
-	string perm = "123";
+	string perm = "12";
 	while(NotDone){
 		cout << perm << endl;
 		NotDone = next_permutation(perm.begin() , perm.end());
 	}
 
 
+
+// COMPARATOR
+
+	pair<int,int> arrs[] = { {2,6} , {5,2} ,{ 78 , 9} };
+
+	sort(arrs,arrs+3,pair_compartor);
+
+	// sort(arrs,arrs+3 ,greater<int> );
+	// greater<int> inbuilt comparator for decending order
+
+	// for( pair<int,int> i =0 ; i<3 ; i++){
+	// 	cout << i.first << i.second ;
+	// }
+
+}
+
+
+bool pair_compartor( pair<int,int> element1 , pair<int,int> element2){
+	if(element1.first < element2.first)
+		return 1;
+	else if(element1.first == element2.first){
+		if(element1.second >= element2.second)
+			return 1;
+	}
+	return 0;
+
+}
+
+bool comp(int element1, int element2){
+
+	// comparators are used to compare ant two values
+
+	if(element1 <= element2)
+		return 1;
+	return 0;
 }
