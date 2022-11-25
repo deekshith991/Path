@@ -139,7 +139,17 @@ int main(){
 	string s ="abcd";
 	bool result = next_permutation(s.begin() , s.end());
 
-	cout<< endl <<  s << result;
+	cout<< endl <<  s <<  result;
+
+
+	cout << " All permutations of \"abcdefgh\" \n";
+
+	bool NotDone = true;
+	string perm = "123";
+	while(NotDone){
+		cout << perm << endl;
+		NotDone = next_permutation(perm.begin() , perm.end());
+	}
 
 
 }
